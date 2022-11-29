@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="942f96bb-8068-4757-b12a-5f080db140a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/com/Block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/com/CompositeBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/com/NoBlockFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/com/Structure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/com/Wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/com/WallTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="942f96bb-8068-4757-b12a-5f080db140a5" name="Changes" comment="second commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +46,9 @@
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ka 23\IdeaProjects\The Wall\" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="pl.com" />
@@ -165,6 +153,21 @@
       <option name="presentableId" value="Default" />
       <updated>1669545522506</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1669715654565</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669715654565</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1669715852016</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669715852016</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +180,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
